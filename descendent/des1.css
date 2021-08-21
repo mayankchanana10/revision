@@ -1,0 +1,17 @@
+body{
+background:black;
+color:yellow;
+font-size:35px;
+}
+h1{
+color:white;
+text-decoration:underline;
+text-align:center;
+font-size:49px;
+background:darkblue;
+}
+
+h1 li{
+color:darkred;
+font-size:32px;
+}
