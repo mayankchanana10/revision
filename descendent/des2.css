@@ -1,0 +1,18 @@
+body{
+background:lightblue;
+color:pink;
+font-size:35px;
+}
+
+p{
+color:purple;
+font-size:29px;
+font-weight:bold;
+}
+
+div li{
+color:darkred;
+background:yellow;
+font-size:39px;
+text-decoration:underline;
+}
